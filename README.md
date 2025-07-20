@@ -1,1 +1,69 @@
-# Unna
+<!DOCTYPE html>
+
+<html>
+ <head>
+  <title>Taste of Travel</title>
+  <link rel="stylesheet" href="style3.css"
+  <meta http-equiv="CONTENT-TYPE" content="text/html; charset=UTF-8">
+  <meta name="description" 
+    <meta content="Embark on a culinary adventure with Taste of Travel, exploring global flavors and recipes."
+</head>
+<body>
+  <body text="tomato"
+</body>
+<body>
+  <h1>"Tom Yum Goong: A Spicy Thai Delight"</h1> 
+  <h2> and "Ingredients", "Preparation" and "Cooking Tips" </h2>
+  <h3> <p>"Tom Yum Goong is a classic Thai soup renowned for its bold flavors and aromatic spices. This hot and sour soup features a tantalizing blend of lemongrass, galangal, and kaffir lime leaves, combined with succulent shrimp." 
+   <blockquote>The Key to a Thai cuisine expert, about the essence of Tom Yum goong lies in the balance of flavors - sweet sour, salty and spicy.</blockquote> 
+ <h2>Ingrendients</h2>
+   <h4> <strong>Lemongrass: 2 stalks</strong>, <strong>Thail Basil: 1 cup</strong>, <strong> Kaffir Lime Leaves: 3 Leaves </strong> and <strong> Shrimp: 500g. </strong> </h4>
+ <h2>Preparation</h2>
+ <h4> 1. <em>Simmer</em> the broth for 10 Minutes </h4>
+ <h4> 2. Add lemongrass, galangal and kaffir lime leaves </h4>
+ <h4> 3. <em>Stir</em> In shrimp and <em>Cook</em> until pink </h4>
+ <h4> 4. <em>Season</em> with fish sauce, lime juice, and chili paste" </h4>
+ <h4> 5. <em>Garnish</em> with Thai basil and serve hot. </h4>
+ <h2>Cooking Tips</h2>
+ <h4> <sup>1/4</sup> cup of fish sauce adds authentic thai flavor.</h4>
+ <h4><sub>1</sub> tablespoon of chili paste gives the soup its signature heat</h4>
+  </body>
+<body> <img src="https://edube.org/uploads/media/default/0001/04/thai-soup.jpg" alt="Tom Yum Goong"
+</body>
+ <hr>
+ <hr>
+  <body> <h3>Recipe Details</h3>
+    <table>
+      <tr>
+        <th>Ingrendients</th>
+        <th>Quality</th>
+      </tr>
+      <tr>
+        <td> Lemongrass</td>
+        <td> 2 Stalks</td>
+      </tr>
+      <tr>
+        <td> Thai Basil</td>
+        <td> 1 Cup</td>
+      </tr>
+      <tr>
+        <td>Kaffir Lime Leaves</td>
+        <td>3 Leaves</td>
+      </tr>
+      <tr>
+        <td> Shrimp</td>
+        <td> 500g</td>
+      </tr>
+    </table>
+    <table>
+      <tr>
+        <th>Preparation Time</th>
+        <th>Serving Suggestions</th>
+      </tr>
+      <tr>
+        <td> 10 Minutes</td>
+        <td> Steamed Rice Or Jasmine Tea</td>
+      </tr>
+    </table>
+  </body>
+  </html>
